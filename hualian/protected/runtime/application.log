@@ -1,0 +1,24 @@
+2014/10/25 16:59:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "yii".' in E:\workspaces\phpstorm\php\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\workspaces\phpstorm\php\framework\web\CWebApplication.php(141): CWebApplication->runController('yii')
+#1 E:\workspaces\phpstorm\php\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\workspaces\phpstorm\php\hualian\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=yii
+---
+2014/10/25 16:59:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "yii".' in E:\workspaces\phpstorm\php\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\workspaces\phpstorm\php\framework\web\CWebApplication.php(141): CWebApplication->runController('yii')
+#1 E:\workspaces\phpstorm\php\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\workspaces\phpstorm\php\hualian\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/?r=yii
+---
+2014/10/25 16:59:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "yii".' in E:\workspaces\phpstorm\php\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\workspaces\phpstorm\php\framework\web\CWebApplication.php(141): CWebApplication->runController('yii')
+#1 E:\workspaces\phpstorm\php\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\workspaces\phpstorm\php\hualian\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/?r=yii
+---
